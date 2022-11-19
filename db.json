@@ -1,0 +1,113 @@
+{
+    "Cabelereira":[
+        {
+        "id": 1,
+        "Cab_posicao":"fil 1",
+        "nome": "Janaina",
+        "Especialidade": " Reconstrução"
+        
+        },
+        {
+        "id": 2,
+        "Cab_posicao":"fil 2",
+        "nome": "Tamirys",
+        "Especialidade": "Ondulado"
+        },
+
+        {
+            "id": 3,
+            "Cab_posicao":"fil 3",
+            "nome": "Helena",
+            "Especialidade": "Alisamento"
+            },
+
+            {
+                "id": 4,
+                "Cab_posicao":"fil 2",
+                "nome": "Edileia",
+                "Especialidade": "Coloração"
+                }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+             "Pro_nome": "Creme de Massagem",
+             "valor": "40 reias",
+             "ml": "1L"
+        },
+            {
+                "id": 2,
+                 "Pro_nome": "Creme de Cabelo Infaltil",
+                 "valor": "20 Reias",
+                 "quantidade": "200g"
+            },
+            {
+                "id": 3,
+                 "Pro_nome": "Kit Para cabelo Cacheado",
+                 "valor": "45 Reias",
+                 "quantidade": "1L"
+            },
+            {
+                "id": 4,
+                 "Pro_nome": "Creme Reconstrutor",
+                 "valor": "50 Reias",
+                 "quantidade":"500g"
+            }
+    ],
+    "serviços":[
+        {
+            "id": 1,
+             "ser": "Coloração",
+             "descrição": "Colorindo seu cabelo e dando cor a sua vida", 
+             "valor":" a partir de R$ 99,90 reias"
+        },
+
+       {
+        "id": 2,
+        "ser": "Corte",
+        "descrição": "Cortes Personalizados ", 
+        "valor":" a partir de R$ 50,00 reias"
+       },
+       {
+        "id": 3,
+        "ser": "Escova",
+        "descrição": "Serviço de escovar e pranchar o cabelo", 
+        "valor":" a partir de R$ 30,00 reias"
+       },
+       {
+        "id": 4,
+        "ser": "Revitalização",
+        "descrição": "Revitalização para Cabelos Fracos e Desnutridos", 
+        "valor":" a partir de R$ 99,90 reias"
+    
+        }
+    ],
+    "Local":[
+        {
+            "id": 1,
+            "Salao":"Bela-Campo Grande ",
+             "localização": "Estrada do Campinho",
+             "horario ": "10H as 18H"
+        },
+        {
+            "id": 2,
+            "Salao":"Bela-Santa Cruz",
+             "localização": "Decaminada",
+             "horario ": "10H as 18H"
+        },
+        {
+            "id": 3,
+            "Salao":"Bela-Itaguai",
+             "localização": "Av. João 23",
+             "horario ": "10H as 18H"
+        },
+        {
+            "id": 4,
+            "Salao":"Bela-Botafogo ",
+             "localização": "Av. Rocha Miranda",
+             "horario ": "10H as 18H"
+       
+        }
+    ]
+}
+
